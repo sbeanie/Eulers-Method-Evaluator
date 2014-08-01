@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EulerCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EulerCalculator_jar</output-path>
+    <root id="archive" name="eulersmethod.jar">
+      <element id="module-output" name="eulersmethod" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/bsh-2.0b4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
